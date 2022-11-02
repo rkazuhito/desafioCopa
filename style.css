@@ -28,7 +28,7 @@ header{
     border-bottom: 2px solid #f7dd43;
     border-radius: 6px;
 }
-.card>h2{
+.card h2{
     display: flex;
     gap: 16px;
     justify-content: center;

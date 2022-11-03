@@ -20,6 +20,7 @@ body{
 }
 header{
     margin-bottom: 63px;
+    text-align: center;
 }
 .card{
     padding: 32px 23px;
